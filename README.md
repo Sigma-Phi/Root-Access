@@ -30,6 +30,7 @@
 
 ## 核心內核
 Sigma-Kernel v4.2｜Meta-Translation Layer｜Structural Mapping Engine
+一個人真正稀缺的能力，是在開放生成與自我約束之間保持穩定的邊界感。
 
 ---
 
